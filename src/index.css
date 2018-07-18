@@ -9,6 +9,7 @@ body, html, #root {
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  background: pink;
 }
 
 #Matrix {
@@ -29,5 +30,5 @@ body, html, #root {
 
 .cell {
   width: 80px;
-  height: 80px;
+  height: 26px;
 }
